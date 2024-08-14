@@ -62,7 +62,6 @@ namespace BookStore.Controllers
             book.PageCount = updatedBook.PageCount != default ? updatedBook.PageCount : book.PageCount;
             book.PublishDate = updatedBook.PublishDate != default ? updatedBook.PublishDate : book.PublishDate;
             book.Title = updatedBook.Title != default ? updatedBook.Title : book.Title;
-
             return Ok();
         }
         [HttpDelete("{id}")]
