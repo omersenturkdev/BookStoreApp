@@ -11,20 +11,7 @@ namespace BookStore.Controllers
     {
         private static List<Book> BookList = new List<Book>()
         {
-            new Book{
-                BookId = 1,
-                Title = "Learn",
-                GenreId =2,
-                PageCount=200,
-                PublishDate= new DateTime(2001,06,05)
-            },
-             new Book{
-                BookId = 2,
-                Title = "Test",
-                GenreId =1,
-                PageCount=682,
-                PublishDate= new DateTime(2003,06,05)
-             }
+           
         };
         [HttpGet]
         public List<Book> GetBooks()
