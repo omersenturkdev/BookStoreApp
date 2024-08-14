@@ -18,7 +18,7 @@ namespace BookStore.DbOperations
                 context.Books.AddRange(
                     new Book
                     {
-                        BookId = 1,
+                       
                         Title = "Learn",
                         GenreId = 2,
                         PageCount = 200,
@@ -26,7 +26,7 @@ namespace BookStore.DbOperations
                     },
                   new Book
                   {
-                      BookId = 2,
+                     
                       Title = "Test",
                       GenreId = 1,
                       PageCount = 682,

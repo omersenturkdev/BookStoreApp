@@ -31,3 +31,9 @@ C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\obj\Debug\net5.0\refint\B
 C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\obj\Debug\net5.0\BookStore.pdb
 C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\obj\Debug\net5.0\BookStore.genruntimeconfig.cache
 C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\obj\Debug\net5.0\ref\BookStore.dll
+C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omer\Desktop\BookStore\BookStoreSln\BookStore\obj\Debug\net5.0\BookStore.sourcelink.json
